@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucicorreia Teacher, Filmmaker, Photographer and DEV in my free time :D 
+- 👋 Hi, I’m @lucicorreia - College teacher and technology researcher
 - 👀 I’m interested in learning about DEV Back End, JAVA EE, JPA + Hibernate, Java Facelets, FrontEnd HTML5, CSS, Java Script, Framwork Spring (Eureka, Boot, Zuul...)
 - 🌱 I’m currently learning JAVA EE, Java Script, Javax, Mysql and NoSql
 - 💞️ I’m looking to collaborate on Dev Full Stack and Educational fields
