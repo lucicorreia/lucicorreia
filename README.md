@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JAVA EE, Java Script, Javax, Mysql and NoSql
 - 💞️ I’m looking to collaborate on Dev Full Stack and Educational fields
 - 📫 How to reach me: @lucacorreia on Instagram 
-- 😄 Pronouns: Whathever
+- 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I'm always trying to learn something. always.
 
 <!---
