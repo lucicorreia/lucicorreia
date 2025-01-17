@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucicorreia - College professor (lecturer) and technology researcher
+- 👋 Hi, I’m @lucicorreia - College professor and technology researcher
 - 👀 I’m interested in learning about DEV Back End, JAVA EE, JPA + Hibernate, Java Facelets, FrontEnd HTML5, CSS, Java Script, Framework Spring (Eureka, Boot, Zuul...)
 - 🌱 I’m currently learning JAVA EE, Java Script, Javax, Mysql and NoSql, I've already taught scriptwriting for games and front end development
 - 💞️ I’m looking to collaborate on Dev Full Stack and Educational fields
