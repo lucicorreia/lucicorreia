@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning about DEV Back End, JAVA EE, JPA + Hibernate, Java Facelets, FrontEnd HTML5, CSS, Java Script, Framework Spring (Eureka, Boot, Zuul...)
 - 🌱 I’m currently learning JAVA EE, Java Script, Javax, Mysql and NoSql, I've already taught scriptwriting for games and front end development
 - 💞️ I’m looking to collaborate on Dev Full Stack and Educational fields
-- 📫 How to reach me: @lucacorreia on Instagram 
+- 📫 How to reach me: @prof.lucicorreia on Instagram 
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I'm always trying to learn something. always.
 
